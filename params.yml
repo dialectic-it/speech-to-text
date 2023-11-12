@@ -1,0 +1,9 @@
+MODEL_NAME: large
+LANG: ru
+DEVICE: cuda:0
+PART_LEN: 120
+DATAPATH: ./data_ru
+FILEPATH: ./data_ru/ex2.mp3
+RESULTPATH: ./results_ru
+
+
