@@ -1,9 +1,9 @@
-MODEL_NAME: large
-LANG: ru
+MODEL_NAME: large-v2
+LANG: RU
 DEVICE: cuda:0
-PART_LEN: 120
+PART_LEN: 180
 DATAPATH: ./data_ru
-FILEPATH: ./data_ru/ex2.mp3
+FILEPATH: ./data_ru/ex2.wav
 RESULTPATH: ./results_ru
 
 
